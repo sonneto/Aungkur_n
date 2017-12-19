@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title> Edti Notice</title>
 </head>
 <body>
 
